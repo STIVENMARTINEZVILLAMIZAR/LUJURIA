@@ -7,10 +7,10 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 
 @SpringBootApplication
 @EnableConfigurationProperties(AppProperties.class)
-public class LujuriaApplication {
+public class eroticLiveXApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LujuriaApplication.class, args);
+		SpringApplication.run(eroticLiveXApplication.class, args);
 	}
 
 }

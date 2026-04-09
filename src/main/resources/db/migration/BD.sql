@@ -1,3 +1,14 @@
+CREATE DATABASE IF NOT EXISTS EroticLiveX CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE EroticLiveX;
+
+-- ============================================================
+-- ESQUEMA DE REFERENCIA DEL PROYECTO EroticLiveX
+-- Fuente operativa real:
+--   src/main/resources/db/migration/V1__initial_schema.sql
+--   src/main/resources/db/migration/V2__seed_reference_data.sql
+-- Este archivo existe para lectura humana y revisión rápida.
+-- ============================================================
+
 CREATE TABLE app_users (
     id BIGINT PRIMARY KEY AUTO_INCREMENT,
     first_name VARCHAR(80) NOT NULL,

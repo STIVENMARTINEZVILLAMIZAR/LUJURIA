@@ -1,4 +1,4 @@
-# Luxe Instinct
+# EroticLiveX
 
 Backend inicial para una plataforma tipo marketplace + streaming + chat persistente en tiempo real.
 
