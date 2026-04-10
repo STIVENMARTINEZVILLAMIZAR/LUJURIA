@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272346825762",
+    "project_id": "eroticlivex",
+    "storage_bucket": "eroticlivex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272346825762:android:58ec74e475908fe078367b",
+        "android_client_info": {
+          "package_name": "com.company.EroticLiveX"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8kPEC64SjbdxRdYJUFAUbZ0Dv53I_l5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

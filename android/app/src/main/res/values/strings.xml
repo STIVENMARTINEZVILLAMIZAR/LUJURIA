@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EroticLiveX</string>
+    <string name="app_description">Plataforma de streaming erótico y marketplace</string>
+    
+    <!-- Firebase -->
+    <string name="firebase_auth_error">Error de autenticación</string>
+    <string name="firebase_db_error">Error en la base de datos</string>
+    
+    <!-- UI Strings -->
+    <string name="welcome_title">¡Bienvenido a EroticLiveX!</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="signup_button">Registrarse</string>
+    <string name="logout_button">Cerrar Sesión</string>
+    <string name="loading">Cargando...</string>
+    <string name="error">Error</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+</resources>

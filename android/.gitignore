@@ -1,0 +1,76 @@
+# Android project
+.gradle
+.idea
+build/
+bin/
+gen/
+local.properties
+
+# Android Studio
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.so
+
+# Gradle files
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Proguard files
+proguard/
+proguard-rules*.txt
+
+# Compiled files
+*.o
+
+# Android Studio captures folder
+captures/
+
+# Intellij
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be committed to version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Gradle cache
+.gradle
+
+# Gradle wrapper
+gradlew
+gradlew.bat
+
+# Mac
+.DS_Store
+
+# Tests
+test-results/
+
+# Outputs
+outputs/
+
+# FCM & Firebase
+Firebase/
+google-services.json.bak
+
+# Sensitive files
+*.keystore
+*.jks
+key.properties
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Build results
+/captures
+.externalNativeBuild
+.cxx

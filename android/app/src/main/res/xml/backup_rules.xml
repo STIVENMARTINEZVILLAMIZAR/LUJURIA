@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backup-scheme version="1">
+    <!-- Excluir datos sensibles del backup -->
+    <exclude domain="sharedpref" path="firebase_auth*.xml"/>
+    <exclude domain="sharedpref" path="firebase_token*.xml"/>
+    <exclude domain="file" path="cache"/>
+    <exclude domain="file" path="temp"/>
+    
+    <!-- Incluir datos seguros para backup -->
+    <include domain="sharedpref" path="user_preferences.xml"/>
+</backup-scheme>
